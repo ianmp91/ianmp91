@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ian Paris
+- 👀 I’m interested in technology and software development
+- 📫 I'm act as an Architect but loving code!
